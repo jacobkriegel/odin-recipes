@@ -1,0 +1,14 @@
+html { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header {
+    text-align: center;
+    font-weight: bold;
+    
+    
+} 
+
+.recipeHeader { 
+    text-align: center;
+}   
